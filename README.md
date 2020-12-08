@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 🌱
+My name is Afsane✨. I love buiilding stuff :flamingo:
+
+I’m currently reviewing lodash library :bowing_woman:.
+Xmax is coming. Hope that santa has something for us :) :santa:.
+
+
 
 <!--
 **afsanefda/afsanefda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
