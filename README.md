@@ -3,7 +3,7 @@
 ### Hey there 🌱
 My name is Afsane✨. I love buiilding stuff :balloon: :computer:.
 
-- I’m currently reviewing lodash library :bowing_woman:
+- I’m currently reviewing typescript :bowing_woman:
 
 
 <!--
