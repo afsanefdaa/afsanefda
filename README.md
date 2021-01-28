@@ -3,8 +3,7 @@
 ### Hey there 🌱
 My name is Afsane✨. I love buiilding stuff :balloon: :computer:.
 
-- I’m currently reviewing typescript :bowing_woman:
-
+- ![typescript](https://i.postimg.cc/sgfvdcj6/resized-Image.png)    I’m currently working on typescript! 
 
 <!--
 **afsanefda/afsanefda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
